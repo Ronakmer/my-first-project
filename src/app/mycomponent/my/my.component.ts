@@ -14,20 +14,20 @@ export class MyComponent implements OnInit {
     this.my=[
      {
       sno:1,
-      title:"ronak",
-      desc:"python",
+      title:"asd",
+      desc:"zxc",
       active:true
      },
      {
       sno:2,
-      title:"jayraj",
-      desc:"php",
+      title:"qwe",
+      desc:"dfg",
       active:true
      },
      {
       sno:3,
-      title:"abhay",
-      desc:"python",
+      title:"ert",
+      desc:"cvb",
       active:true
      },
     ]
